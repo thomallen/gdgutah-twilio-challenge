@@ -1,6 +1,5 @@
 <?php
-// Download/Install the PHP helper library from twilio.com/docs/libraries.
-// This line loads the library
+// This line loads the Twilio PHP library
 require('/twilio-php/Services/Twilio.php');
  
 // Your Account Sid and Auth Token from twilio.com/user/account
